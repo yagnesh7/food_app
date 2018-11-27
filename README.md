@@ -1,6 +1,6 @@
 # food_app
 
-*Progress is Paused*
+*Project is on hold.*
 
 Last updated 3/16/18
 
