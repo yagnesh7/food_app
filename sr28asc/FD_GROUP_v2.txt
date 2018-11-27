@@ -1,0 +1,25 @@
+~0100~^~Dairy and Egg Products~^~DairyEgg~
+~0200~^~Spices and Herbs~^~SpiceHerbs~
+~0300~^~Baby Foods~^~BabyFood~
+~0400~^~Fats and Oils~^~FatOil~
+~0500~^~Poultry Products~^~Poultry~
+~0600~^~Soups, Sauces, and Gravies~^~SoupSauceGravy~
+~0700~^~Sausages and Luncheon Meats~^~SausageLuncheonMeat~
+~0800~^~Breakfast Cereals~^~BreakfastCereal~
+~0900~^~Fruits and Fruit Juices~^~Fruit~
+~1000~^~Pork Products~^~Pork~
+~1100~^~Vegetables and Vegetable Products~^~Vegetable~
+~1200~^~Nut and Seed Products~^~NutSeed~
+~1300~^~Beef Products~^~Beef~
+~1400~^~Beverages~^~Beverage~
+~1500~^~Finfish and Shellfish Products~^~FinfishShellFish~
+~1600~^~Legumes and Legume Products~^~Legume~
+~1700~^~Lamb, Veal, and Game Products~^~LambVealGame~
+~1800~^~Baked Products~^~Baked~
+~1900~^~Sweets~^~Sweets~
+~2000~^~Cereal Grains and Pasta~^~CerealGrainsPasta~
+~2100~^~Fast Foods~^~FastFood~
+~2200~^~Meals, Entrees, and Side Dishes~^~MealEntreeSides~
+~2500~^~Snacks~^~Snacks~
+~3500~^~American Indian/Alaska Native Foods~^~NativeAmerican~
+~3600~^~Restaurant Foods~^~Restaurant~
